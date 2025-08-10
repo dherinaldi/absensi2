@@ -1,4 +1,7 @@
-# absensi
-Sistem Informasi Absensi Sederhana
+# absensi / absensi2
 
-Add .htaccess file on your root folder
+Sistem Informasi Absensi Sederhana  
+Apps aplikasi uji coba
+
+**Catatan:**  
+Pastikan menambahkan file `.htaccess` pada folder root aplikasi untuk konfigurasi URL dan keamanan.
